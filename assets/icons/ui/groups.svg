@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- pasta de trás -->
+  <path d="M4 8.2c0-1 .8-1.8 1.8-1.8h2.6l1.2 1.3h6.6c1 0 1.8.8 1.8 1.8v1.2"
+        stroke="#2dd4bf" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"
+        fill="#2dd4bf" fill-opacity="0.08"/>
+  <!-- pasta da frente -->
+  <path d="M3.5 10.2c0-1 .8-1.8 1.8-1.8h3l1.15 1.25h9.05c1 0 1.8.8 1.8 1.8v6.55c0 1-.8 1.8-1.8 1.8H5.3c-1 0-1.8-.8-1.8-1.8V10.2z"
+        fill="#0f1218" stroke="#5eead4" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- linhas de “itens do grupo” -->
+  <path d="M8 13.6h8.2M8 16.2h5.5" stroke="#2dd4bf" stroke-width="1.45" stroke-linecap="round"/>
+</svg>

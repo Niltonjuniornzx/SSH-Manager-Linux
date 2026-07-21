@@ -1,0 +1,1 @@
+"""Painéis de sessão."""

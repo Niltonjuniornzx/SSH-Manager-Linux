@@ -1,0 +1,51 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.Python
+
+# Test / lint
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# App data / secrets (nunca commitar)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.log
+.env
+.env.*
+!.env.example
+
+# Packaging output
+packaging/deb/build/
+packaging/appimage/*.AppDir/
+packaging/appimage/*.AppImage
+packaging/appimage/*.tar.gz
+*.deb
+*.AppImage
+
+# Local runtime / cache
+.cache/
+*.passwd

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SSH-Manager-Linux
+Name[pt_BR]=SSH-Manager-Linux
+GenericName=SSH Client
+GenericName[pt_BR]=Cliente SSH
+Comment=SSH/SFTP manager for Linux
+Comment[pt_BR]=Gerenciador SSH e SFTP para Linux
+Exec=ssh-manager-linux
+Icon=ssh-manager-linux
+Terminal=false
+Categories=Network;RemoteAccess;System;
+Keywords=SSH;SFTP;Tunnel;Server;Remote;
+StartupNotify=true
+StartupWMClass=SSH-Manager-Linux

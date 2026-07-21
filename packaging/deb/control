@@ -1,0 +1,10 @@
+Package: ssh-manager-linux
+Version: 1.0.0
+Section: net
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.12), python3-venv, openssh-client, libsecret-1-0
+Maintainer: SSH-Manager-Linux
+Description: SSH-Manager-Linux — cliente desktop SSH/SFTP para Linux
+ Gerenciador desktop de servidores SSH para Linux.
+ Inclui perfis, terminal, SFTP dual-pane e transferências.
